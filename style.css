@@ -1,0 +1,103 @@
+body{
+  text-align: center;
+}
+#container
+{
+  background-color: dodgerblue;
+  width: 800px;
+  height: 850px;
+  border: none;
+  margin:auto;
+  padding-left: 30px;;
+  
+}
+#container2
+{
+
+
+  border: none;
+  margin:auto;
+  margin-top: 20px;
+  padding-left: 30px;
+  
+}
+.headertxt
+{
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin:auto;
+  display: block;
+}
+#description
+{
+  color: lightgray;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  float: left;
+  margin-top: 20px;
+  display: block;
+
+}
+.lbl
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: white;
+
+}
+input
+{
+  display: inline-block;
+  width: 100px;
+  float: left;
+  margin-top: 8px;
+  margin-left: 6px;
+}
+#btngenerate
+{
+  border: 1px;
+  border-bottom-style: solid;
+  border-color: white;
+  border-top-style: solid;
+  width: 100px;
+  color: white;
+  cursor: pointer;
+  font-size: large;
+  float: left;
+  margin-top: 8px;
+  margin-left: 20px;
+}
+#btngenerateall
+{
+  border: 1px;
+  border-bottom-style: solid;
+  border-color: white;
+  border-top-style: solid;
+  width: 100px;
+  color: white;
+  cursor: pointer;
+  font-size: large;
+  float: left;
+  margin-top: 8px;
+  margin-left: 20px;
+}
+#resultslist
+{
+  display: block;
+  float: left;
+  width: 100%;
+  margin-top: 70px;
+}
+.item
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  float: left;
+  margin-left: 10px;
+  margin-top: 10px;
+  color: white;
+  display: block;
+  width: 100%;
+}
